@@ -1,0 +1,19 @@
+
+
+.HomePage {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(42, 42, 42);
+}
+.sidebarNav {
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    width: 25%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.sport-select select {
+    width: 60%;
+    margin: 0 auto;
+}
