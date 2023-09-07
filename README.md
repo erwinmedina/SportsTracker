@@ -5,7 +5,7 @@
 | ---- | ----- | -------- |
 | Erwin Medina | erwinmedina@csu.fullerton.edu | 888233475
 | Adrian | adrivnlopez@csu.fullerton.edu | 887302933 |
-| Kai | Kai | Kai |
+| Kai | kai12@csu.fullerton.edu | 884780172 |
 | Bryan | Bryan | Bryan |
 
 ## About
