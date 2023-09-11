@@ -1,0 +1,16 @@
+.sidebarNav {
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    width: 25%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.sportSelect select {
+    width: 60%;
+    margin: 0 auto;
+}
+.homepageName {
+    font-family: "Just Me Again Down Here";
+    font-size: 50px;
+}
