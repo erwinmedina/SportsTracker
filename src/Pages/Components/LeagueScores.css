@@ -1,0 +1,40 @@
+
+.leagueScores {
+    margin: 100px;
+    width: 400px;
+    height: 450px;
+    background: rgba(255,255,255,.75);
+    border-radius: 30px;
+}
+.leagueScoresHeader {
+    margin: 25px;
+}
+.leagueScoresHeader select {
+    width: 80%;
+    margin: 0 auto;
+}
+.leagueScoresGame {
+    height: 100px;
+    width: 90%;
+    background: white;
+    margin: 0 auto;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.leagueScoresGame img {
+    height: 50px;
+    width: 50px;
+}
+.fullTime {
+    font-family: "Jockey One";
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    line-height: 100%;
+}
+.halfTime {
+    font-family: "Jockey One";
+    font-size: 15px;
+}
