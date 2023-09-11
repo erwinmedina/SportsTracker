@@ -1,0 +1,14 @@
+.leagueTable {
+    margin: 100px 50px;
+    width: 500px;
+    height: 500px;
+    background: rgba(255,255,255,.75);
+    border-radius: 30px;
+}
+.leagueTableHeader {
+    font-family: "Just Me Again Down Here";
+    font-size: 40px;
+    margin: 10px auto;
+    width: 50%;
+    line-height: 100%;
+}
